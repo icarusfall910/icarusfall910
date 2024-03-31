@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Yash Raj
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript☕️
-- 📫 How to reach me :- yashdani910@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+-  Hi, I’m Yash Raj
+-  I’m interested in AI/ML
+-  I’m currently learning JS and Python
+-  How to reach me :- yashdani910@gmail.com
